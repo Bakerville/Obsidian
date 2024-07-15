@@ -1,0 +1,2 @@
+**Storage Memory**: this pool is used for storing Spark cached data and for temporary space serialized data "unroll". Also all the _broadcast_ variables are stored there as cached blocks. It does not require that enough memory to fit the whole unrolled partition because it would directly put it to the drive if desired persistence level allows. As of _broadcast_, all the broastcast variables are stored in cache with _MEMORY_AND_DISK_ persistence level.
+

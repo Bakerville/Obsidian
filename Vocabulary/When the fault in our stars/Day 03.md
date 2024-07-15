@@ -1,0 +1,6 @@
+- **filing out**: to become larger
+- **losing ground**: to become less popular or less support (related to political belief)
+- **rather**=**quite**
+- astonished = surprised very much
+- curable = the diseases can be cured
+- 

@@ -1,0 +1,21 @@
+- **fiddle around with sth** to touch or move things with fingers because you are [nervous](https://dictionary.cambridge.org/vi/dictionary/english/nervous) or bored
+- **cylindrical (adj)** having a shape of a cylinder
+- **negotiate (v)**: like discuss but more formal, in order to reach the agreement with them
+-  **myriad (n)** a very large number of something
+- **sufficiency (n)** an amount of something that is enough, or the qualityy of being good enough **$\ne$**  **insufficiency**
+- **aggressive (adj)** showing anger and a willingness to attack other people
+- **sage (adj)** wise,  especially as a result of great experience
+- **weird (adj)** very strange and unusual, unexpected, or not natural
+- **ridiculous (adj)** stupid or unreasonable and deserving to be laughed at
+- **proper (adj)** right or suitable for a particular situation or purpose
+- **remission (n)** a period of time when an illness is less affecting someone
+- **appendix(adj)** ruột thừa
+- **nostrils** : lỗ mũi (a part of the nose)
+- **bragging (v)** khoe khoang
+- **denounce**: to [criticize](https://dictionary.cambridge.org/vi/dictionary/english/criticize) something or someone strongly and publicly
+- **oblivion (n)** the state of being completely forgotten
+- **all the way**: bằng mọi cách
+- **tower over me** vượt qua tôi
+- **lean in** dựa vào
+- **make so/sth out** to see, hear, or understand something or someone with difficulty
+- 

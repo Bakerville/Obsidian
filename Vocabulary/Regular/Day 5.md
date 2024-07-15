@@ -1,0 +1,12 @@
+- **marsh (n)**  đầm lầy
+- **on the railing** trên lan can
+- **harass (v)** quấy tối
+- **persist (v)** kiên trì, bền chí, cố chấp
+- **pick sth from sth (v)** take something and leaves others\
+- **plenty of = many** nhiều
+- **sneak (v)** lén lút
+- **pale (adj)** tái nhợt
+- **eviction (n)** sự lấy lại, thu hồi (in technical scenerio, it's like garbage collection)
+- **emit (v)**: 
+- **compress (v)**: nén, to press something into a smaller space
+- 

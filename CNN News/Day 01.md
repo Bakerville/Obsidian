@@ -1,0 +1,12 @@
+- **chilling (adj):** làm lạnh, rùng mình
+- **nomination (n):** sự đề cử, tiến cử, **nominee (n)**: người được đề cử
+- **ring out:** vang lên
+- **rush off**: lao đi
+- **aftermath = consequence**: hậu quả
+- **rip through**: xé toác
+- **presumptive**: được cho là, believe something is true based on the information what u have
+- **flinched (v):** nao núng
+- **tense**: căng thẳng
+- **The targeting of the former president just days before he accepts the Republic nomination is an attack on the democracy and the right of each American to choose their leaders
+- **get in the way of doing sth:** cản trở
+- 

@@ -1,0 +1,248 @@
+{
+  "main": {
+    "id": "6b3f19b2f434db38",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e08e171dacd88ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "28702018c42e78e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vocabulary/When the fault in our stars/Day 03.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bad9b5ecac0ad7f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning Spark - Orelly's Book/Optimizing and Tuning Spark Application/Type of  Spark Joins/Broadcast Hash Join.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9fd28d4a105019f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning Spark - Orelly's Book/Optimizing and Tuning Spark Application/Type of  Spark Joins/When to use a shuffle sort merge join.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0207e2891f454c7d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dark Deep and Die on Spark/Extra Research/Understanding Partitioning in Spark at 3 levels.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3fff0c0e9c445eb3",
+    "type": "split",
+    "children": [
+      {
+        "id": "a7b8231414186217",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "87ec81cef902ae8a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cacae4dff2f2d461",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "916c808b854bb250",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 413.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "1bbee7c0a721f70b",
+    "type": "split",
+    "children": [
+      {
+        "id": "c35e7eac879971a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "55be6f0d52f76c1e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Vocabulary/When the fault in our stars/Day 03.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a7f35a590b477fc3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Vocabulary/When the fault in our stars/Day 03.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3f14097567f37ffe",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "62641beb6e95150d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Vocabulary/When the fault in our stars/Day 03.md"
+              }
+            }
+          },
+          {
+            "id": "1d3a73cb9a4fa0b6",
+            "type": "leaf",
+            "state": {
+              "type": "dictionary-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 289.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "omnisearch:Omnisearch": false
+    }
+  },
+  "active": "28702018c42e78e7",
+  "lastOpenFiles": [
+    "Vocabulary/Regular/Day 1.md",
+    "Vocabulary/When the fault in our stars/Day 03.md",
+    "Learning Spark - Orelly's Book/Spark Optimization for Large Workload/Configuring Spark executors's memory and the shuffle service.md",
+    "Vocabulary/Regular/Day 5.md",
+    "Vocabulary/Regular/Day 4.md",
+    "Vocabulary/Regular/Day 3.md",
+    "Vocabulary/Regular/Day 2.md",
+    "CNN News/Day 01.md",
+    "Tomorrow.md",
+    "Databrick SparkContext.md",
+    "CNN News",
+    "Dark Deep and Die on Spark/Extra Research/Spark SQL Engine.md",
+    "Dark Deep and Die on Spark/Extra Research/Spark Table, Dataframe and Datasets.md",
+    "Distributed System on Spark/Partition on Shuffle.md",
+    "Dark Deep and Die on Spark/Extra Research/Understanding Partitioning in Spark at 3 levels.md",
+    "Dark Deep and Die on Spark/Extra Research/Lazy Evaluation.md",
+    "Dark Deep and Die on Spark/Extra Research/Parquet File.md",
+    "Dark Deep and Die on Spark/Extra Research/Spark Reader and Writer.md",
+    "Distributed System on Spark/Small partition problem.md",
+    "Distributed System on Spark/Partition.md",
+    "Distributed System on Spark/Storage Memory.md",
+    "Distributed System on Spark/What is Heap on Java Virtual Machine.md",
+    "Distributed System on Spark/When Execution Memory can borrow space from Storage Memory.md",
+    "Distributed System on Spark/The latest Spark 1.6.x architecture.md",
+    "Distributed System on Spark/Map and Reduce in Shuffle.md",
+    "Dark Deep and Die on Spark/Spark Shuffle Architecture/Broadcast Join.md",
+    "Dark Deep and Die on Spark/Spark Shuffle Architecture/Hash Shuffle.md",
+    "Learning Spark - Orelly's Book/Spark Optimization for Large Workload/images/screenshot-1720256401581.png",
+    "Learning Spark - Orelly's Book/Spark Optimization for Large Workload/images",
+    "Untitled.canvas",
+    "Learning Spark - Orelly's Book/Spark Optimization for Large Workload",
+    "Learning Spark - Orelly's Book/Configuring Spark executors's memory and the shuffle service",
+    "Distributed System on Spark/images/Pasted image 20240705085408.png",
+    "Distributed System on Spark/images/Spark Memory.png",
+    "Distributed System on Spark/images/Driver and Worker.png",
+    "Dark Deep and Die on Spark/Extra Research/images/Catalyst Optimizer.png",
+    "Learning Spark - Orelly's Book/Optimizing and Tuning Spark Application/Spark Optimization for Large Workloads",
+    "Learning Spark - Orelly's Book/Optimizing and Tuning Spark Application/Caching and Persistence/images/Spark Caching 12 partitions.png",
+    "Learning Spark - Orelly's Book/Optimizing and Tuning Spark Application/Caching and Persistence/images",
+    "Learning Spark - Orelly's Book/Optimizing and Tuning Spark Application/Caching and Persistence",
+    "Learning Spark - Orelly's Book/Job, Stage and Task/images/Spark Job.png",
+    "Dark Deep and Die on Spark/Extra Research/images/Wrong Wide Dependency Transformation.png",
+    "Learning Spark - Orelly's Book/Built-in Data Sources in SparkSQL and DataFrames/SQL Tables and Views",
+    "Apache Spark/Learning Spark - Orelly's Book/Built-in Data Sources in SparkSQL and DataFrames/Untitled/Untitled",
+    "Learning Spark - Orelly's Book/Built-in Data Sources in SparkSQL and DataFrames/Using Spark SQL in Spark Application",
+    "Learning Spark - Orelly's Book/Optimizing and Tuning Spark Application/Type of  Spark Joins/images/Pasted image 20240703102038.png",
+    "Learning Spark - Orelly's Book/Optimizing and Tuning Spark Application/Type of  Spark Joins/images/Pasted image 20240703101700.png",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas"
+  ]
+}

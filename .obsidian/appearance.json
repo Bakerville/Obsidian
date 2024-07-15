@@ -1,0 +1,9 @@
+{
+  "accentColor": "#febd0b",
+  "cssTheme": "Shiba Inu",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "custom-background"
+  ],
+  "baseFontSize": 20
+}

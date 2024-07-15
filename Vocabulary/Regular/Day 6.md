@@ -1,0 +1,6 @@
+- **nuanced** make slightly different in sound, appearance, meaning
+- **slightly** a little
+- **guilty** có tội (Kya is found not guilty)
+- **permanent** vĩnh cửu
+- **conducive** cung cấp điều kiện để xảy ra tốt đẹp
+- **inordinate**: quá mức, reach over the limit

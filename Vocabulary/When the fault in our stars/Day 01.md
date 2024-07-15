@@ -1,0 +1,20 @@
+- **as the tide washed in** khi cơn sóng dâng lên
+- **conjoin (v)** to join with sth, or to join sth together
+- **conceal (v)** to prevent sth from being seen or known about
+- **make sth up** to invent sth, such an excuse or a story
+- **benefit (v)** to be helped by something or to help someone
+- **attemp (n)**: to try to do sth, especially difficult
+- **divine (adj)** connected with a god, or like god
+- **a sort of** used to describe something approximately
+- **cooperation** the act of working together with so
+- **devote (v)** to give all of sth, especially your time, effort, or love
+- **feature (v)** to include sth or so as an important part
+- **as well** cũng như
+- **would have v3** lẽ ra đã (**this phase like 'should have been')
+- **grazed at** được chăn thả tại
+- **decrepit** suy sụp, lọm khọm, già yếu
+- **miserable** khổ sở
+- **exploit (v)** make full use of and derive benefit from
+- **spare (v)** if something is spare, it is available to use
+- **Apparently** used when the [real](https://dictionary.cambridge.org/vi/dictionary/english/real "real") [situation](https://dictionary.cambridge.org/vi/dictionary/english/situation "situation") is different from what you [thought](https://dictionary.cambridge.org/vi/dictionary/english/thought "thought") it was *(Ex: Apparently, this world is not a wish-grant factory)*
+- 

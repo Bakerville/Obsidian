@@ -1,0 +1,14 @@
+From the beginning, Spark process that would ever work on the cluster or local machine is a JVM process. 
+
+How does this process use its heap memory and why does it need it at all?
+
+![[Spark Memory.png]]
+
+By default, Spark starts with 512MB JVM Heap. To be on a safe side and avoid OOM error Spark allows to utilize only 90% of the heap, which is controlled by the _spark.storage.safetyFraction_ parameter of Spark.
+
+Spark is not really in-memory tool, it just utilizes the memory for its [LRU cache]([http://en.wikipedia.org/wiki/Cache_algorithms](http://en.wikipedia.org/wiki/Cache_algorithms)). So some amount of memory is reserved for the caching of the data you are processing, and this part is usually 60% of the safe heap, which is controlled by the _spark.storage.memoryFraction_ parameter. So if you want to know how much data you can cache in Spark, you should take the sum of all the heap sizes for all the executors, multiply it by _safetyFraction_ and by _storage.memoryFraction_, and by default it is 0.9 * 0.6 = 0.54 or 54% of the total heap size you allow Spark to use.'
+
+Now a bit more about the shuffle memory. It is calculated as “Heap Size” * _spark.shuffle.safetyFraction_ * _spark.shuffle.memoryFraction_. Default value for _spark.shuffle.safetyFraction_ is 0.8 or 80%, default value for _spark.shuffle.memoryFraction_ is 0.2 or 20%. So finally you can use up to 0.8x0.2 = 0.16 or 16% of the JVM heap for the shuffle.  but in general Spark uses this memory for the exact task it is called after – for Shuffle. When the shuffle is performed, sometimes you as well need to sort the data. When you sort the data, you usually need a buffer to store the sorted data (remember, you cannot modify the data in the LRU cache in place as it is there to be reused later). So it needs some amount of RAM to store the sorted chunks of data. What happens if you don’t have enough memory to sort the data? There is a wide range of algorithms usually referenced as [external sorting]([http://en.wikipedia.org/wiki/External_sorting](http://en.wikipedia.org/wiki/External_sorting)) that allows you to sort the data chunk-by-chunk and then merge the final result together.
+
+The last part of RAM is unroll memory. This amount of RAM is equal _spark.storage.unrollFraction_  x _spark.storage.memoryFractio_ x _spark.storage.safetyFraction_ , the default values is 10.8% of the heap. This memory is used to roll the block of data into the memory. You need the unrolling because Spark allows you to store data in serialized form and deserialized form. The data in serialized form can be used directly, so you have to unroll it before using and this RAM is used for this purpose. It is shared with the storage RAM, which means that if you need some memory to unroll the data, this might cause dropping some of the partitions stored in the Spark LRU cache.
+

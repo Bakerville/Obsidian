@@ -1,0 +1,6 @@
+- **delineate (v)**: describe something completely, including details
+- **dictate (v):** bắt buộc, bắt theo
+- **comprise (v):** consist of
+- **strictly** nghiêm ngặt
+- **crucial**: chủ yếu
+- 

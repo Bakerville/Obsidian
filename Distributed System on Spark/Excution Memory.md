@@ -1,0 +1,1 @@
+ **Execution Memory**: This pool is used for storing the objects required during the execution of Spark tasks. For example, it stores _shuffle intermediate buffer on the Mapside_ (this refered on [[Hash Shuffle]], also it is used to store hash table for hash aggregation step. This pool also supports spilling on disk if not enough memory is available
