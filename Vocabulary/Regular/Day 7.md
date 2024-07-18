@@ -1,0 +1,12 @@
+- **stave sth off**: preventing something bad from happening
+- can use **hold** instead of **keep**
+- **substance**: chất
+- **drive**: this word has another meaning (not only in cars), it can mean to force something in a certain direction
+- **desperate**: the hopeless feeling that a bad situation is so bad to be deal with it *(I am very desperate but I take slots, winning 31.000yen)*
+- **reflect**: phản ánh
+- **devote**: tận tâm
+- **inevitable**: không thể tránh được, vẫn thường nghe
+- **simultaneous**: occurring, operating at the same time *(This kind of data modeling addresses 2 simutalneous requirements)*
+- **crucial**: đôc đáo
+- *transparent*: if a substance is transparent, you can see through it clearly. Another meaning of this word presents that something is very clear or easy to understand
+- **disruption $\neq$ non-continuous**: ngắt quãng

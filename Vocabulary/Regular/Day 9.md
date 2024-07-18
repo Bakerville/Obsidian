@@ -1,0 +1,3 @@
+- **flesh out**: add more details in something
+- **folk**: people, especially in particular group or type
+- **rest on**: nghỉ ngơi

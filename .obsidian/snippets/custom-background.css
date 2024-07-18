@@ -124,7 +124,7 @@ settings:
 	}
   }
 rain:before{
-	background-image: url(https://media.geeksforgeeks.org/wp-content/uploads/20200828184719/rain-300x300.png);
+	background-image: /*url(https://media.geeksforgeeks.org/wp-content/uploads/20200828184719/rain-300x300.png)*/ url("https://pin.it/4pJvqNr1T");
 
 	background-position: center;
 	background-color: blueviolet;
@@ -142,7 +142,8 @@ rain:before{
 	&.anp-bg-fix .app-container {
 		background: var(
 			--anp-background-image,
-			url("https://images.pexels.com/photos/943907/pexels-photo-943907.jpeg?auto=compress&cs=tinysrgb&w=600")
+			url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/0686d8ca-a31f-4beb-9740-e7b45bb723fd/dcmkerz-110dda55-2b96-47d0-baf3-29c36c61793e.jpg/v1/fill/w_1192,h_670,q_70,strp/chinese_landscape_painting_live_wallpaper_by_ice_wind_wolf_dcmkerz-pre.jpg")
+			/*url("https://images.pexels.com/photos/943907/pexels-photo-943907.jpeg?auto=compress&cs=tinysrgb&w=600")*/
 			/*url("https://media.tenor.com/Ab8hK7d3c3cAAAAM/play-khabanh.gif")*/
 		);
 		
